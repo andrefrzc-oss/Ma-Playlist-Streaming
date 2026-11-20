@@ -1,0 +1,50 @@
+
+{
+  "sites": [
+    {
+      "name": "Movbor",
+      "url": "https://www.movbor.fr/",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "Nepu",
+      "url": "https://nepu.io/",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "Q62Flix",
+      "url": "https://q62flix.ws/fr",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "CNO",
+      "url": "https://cno.to/",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "Showbox",
+      "url": "https://www.showbox.media/",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "Aether",
+      "url": "https://aether.st/",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "Vivarium",
+      "url": "https://vivarium.su/",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "Movy",
+      "url": "https://www.movy.sx/",
+      "status": "pending_rights_and_technical_review"
+    },
+    {
+      "name": "Cinelite",
+      "url": "https://cinelite.xyz/",
+      "status": "pending_rights_and_technical_review"
+    }
+  ]
+}
